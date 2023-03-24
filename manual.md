@@ -1,4 +1,8 @@
-#Manual
+# Manual
+
+Hay que tener en cuenta primero que menu.py importa el código de los archivos edad.py, imc.py y pago.py
+
+Para empezar hay que tener en cuenta que en los módulos pago.py e imc.py usa la librería pandas para mostrar una tabla de datos organizada (DataFrame)
 
 Una vez ejecutado el archivo principal menu.py:
 Se le pide al usuario, su nombre de usuario, su contraseña y su numero de teléfono.

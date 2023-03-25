@@ -42,7 +42,7 @@ argument = switcher(argument)
 if argument == "IMC":
     imc()
     time.sleep(3)
-elif argument == "Días vividos":
+elif argument == "Edad":
     age = edad()
     print(f"\n{user}, usted tiene {age.years} años con {age.months} meses y {age.days} días\n")
     time.sleep(2)

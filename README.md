@@ -18,7 +18,7 @@ _**Nota**_: Si no tiene git instalado, entonces no le servirá git clone, como a
 * Ejemplo: ```cd downloads/ProjectGYm```
 
 ### Una vez en la carpeta instalar dependencias:
-* ```pip3 install requeriments.txt```
+* ```pip3 install -r requeriments.txt```
 
 ### Finalmente, ejecutar el programa:
 * ```python3 menu.py```

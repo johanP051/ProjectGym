@@ -65,7 +65,7 @@ A continuación se evaluan las posibles opciones que el usuario pudo haber escog
 ![image](https://user-images.githubusercontent.com/64292875/227678278-1de06ccb-8c44-4d10-901b-7fd26103d050.png)
 
 
-* else (no se cumplieron las condiciones anteriores): se guarda y ejecuta la funcion importada lista_pago() en una variable option (lista_pago contiene la opcion (Diaremente o Mensualmente)), despues se instancia la clase importada Incripcion que recibe como atributo la opcion elegida y de acuerdo a ello ejecuta su codigo (que basicamente dependiendo si escoge diariamente o mensualmente, calcula el monto a pagar)
+* else (no se cumplieron las condiciones anteriores): se guarda y ejecuta la funcion importada **lista_pago()** en una variable option (lista_pago contiene la opcion (Diaremente o Mensualmente)), despues se instancia la clase importada **Incripcion** que recibe como atributo la opcion elegida y de acuerdo a ello ejecuta su codigo (que basicamente dependiendo si escoge diariamente o mensualmente, calcula el monto a pagar)
 
 #### Código:
 ![image](https://user-images.githubusercontent.com/64292875/227678931-8ddcd606-ed44-464c-bc8d-e78465321ce9.png)

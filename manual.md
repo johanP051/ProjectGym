@@ -80,8 +80,8 @@ A continuación se evaluan las posibles opciones que el usuario pudo haber escog
 
 Al final por medio de un input se le pregunta al usuario si quiere continuar con la ejecucion del programa:
 
-* Si es es S, entonces se ejecuta otra vez por ```os.system(python3 __file__)```
-* Si es n entonces hace un ```sys.exit()``` y despide al usuario.
+* Si es S, entonces se ejecuta otra vez por ```os.system(python3 __file__)```
+* Si es N entonces hace un ```sys.exit()``` y despide al usuario.
 
 #### Código:
 ![image](https://user-images.githubusercontent.com/64292875/227679087-e1d19cfb-81f2-4579-a479-a3994266c9c6.png)
